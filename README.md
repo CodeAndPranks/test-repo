@@ -1,2 +1,2 @@
-# Zoom with colur-show,tex-show,'top'-hint...use zoom😃
+# Zoom with color-show.Hint?.Zoom(e)up.
 https://codeandpranks.github.io/Zoom
