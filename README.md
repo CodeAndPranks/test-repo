@@ -1,2 +1,2 @@
-# Zoom with color-show.Hint?.Zoom(e)up.
+# Zoom with color-show.Hint:Zoom(headup:)
 https://codeandpranks.github.io/Zoom
