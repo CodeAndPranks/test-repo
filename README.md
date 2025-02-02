@@ -1,4 +1,6 @@
 # Zoom with color-testing(3gd etc)
+Test by link,or copy URL if you like.
+https://codeandpranks.github.io/Zoom
 ```
 https://codeandpranks.github.io/Zoom
 ```
