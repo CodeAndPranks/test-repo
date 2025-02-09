@@ -1,4 +1,4 @@
-# Test got color flash (3gd etc),but is juya test repository.
+# Test got color flash (3gd etc),but is just a test repository.
 Test by link,or copy URL if you like.
 https://codeandpranks.github.io/test-repo 
 ```
