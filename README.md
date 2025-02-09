@@ -1,11 +1,8 @@
-# Zoom with color-testing(3gd etc)
+# Test got color flash (3gd etc),but is juya test repository.
 Test by link,or copy URL if you like.
-https://codeandpranks.github.io/Zoom
+https://codeandpranks.github.io/test-repo 
 ```
-https://codeandpranks.github.io/Zoom
-```
-```
-alert("test git copy-code")
+https://codeandpranks.github.io/test-repo
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=F7697A&background=A1A1A100&width=435&lines=Welcome+to+code+and+pranks%2C+;a+live+test+page+for++code+fun.)](https://git.io/typing-svg)
