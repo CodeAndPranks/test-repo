@@ -9,5 +9,8 @@ https://codeandpranks.github.io/test-repo
 
 
 ![grid-snake](https://user-images.githubusercontent.com/94220731/198875879-db8010bf-01c8-4f34-98c7-3dd8a0a6e734.svg)
-
+🤠Fun fact:My First IT-Course in 1997
 ![Test Image 1](https://github.com/CodeAndPranks/Zoom/blob/main/PXL_20250203_231900952.jpg)
+
+Evil link in markdown format 🔗 
+[https://facebook.com](https://wim.no)
