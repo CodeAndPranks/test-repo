@@ -7,7 +7,7 @@ https://codeandpranks.github.io/test-repo
 Or try some slightly evil links here;
 https://codeandpranks.github.io/test-repo/link.html
 
-Or copy the link 🔗 
+Or just copy the link 🔗 
 ```
 https://codeandpranks.github.io/test-repo/link.html
 ```
