@@ -1,10 +1,11 @@
 # my test repository.
-Test  link,or copy URL if you like.
+Code e.g at:
+https://github.com/codeandpranks/test-repo Test link for CSS color swope ;
 https://codeandpranks.github.io/test-repo 
 ```
 https://codeandpranks.github.io/test-repo
 ```
-Or try some slightly evil links here;
+Some slightly evil links here;
 https://codeandpranks.github.io/test-repo/link.html
 
 Or just copy the link 🔗 
