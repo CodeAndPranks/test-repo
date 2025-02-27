@@ -1,7 +1,7 @@
-# my test repository.
+# my test repository.<a id="up"></a>
  🔗Code e.g at:
 https://github.com/codeandpranks/test-repo 
-<a id="up"></a>
+ 
  🔗Test link for CSS color swope ;
 https://codeandpranks.github.io/test-repo 
 ```
