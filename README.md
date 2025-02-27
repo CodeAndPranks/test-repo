@@ -1,19 +1,14 @@
 # my test repository.
-Code e.g at:
+ 🔗Code e.g at:
 https://github.com/codeandpranks/test-repo 
 
-Test link for CSS color swope ;
+ 🔗Test link for CSS color swope ;
 https://codeandpranks.github.io/test-repo 
 ```
 https://codeandpranks.github.io/test-repo
 ```
 Some slightly evil links here;
 https://codeandpranks.github.io/test-repo/link.html
-
-Or just copy the link 🔗 
-```
-https://codeandpranks.github.io/test-repo/link.html
-```
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=F7697A&background=A1A1A100&width=435&lines=Welcome+to+code+and+pranks%2C+;a+live+test+page+for++code+fun.)](https://git.io/typing-svg)
 
 
