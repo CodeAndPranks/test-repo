@@ -20,4 +20,4 @@ Evil link in markdown format 🔗
 [https://facebook.com](https://wim.no)
 
 
-<p align="right">(<a href="#up">Up to page-top</a>)</p>
+<p align="right">(<a href="#up">Up to top</a>)</p>
