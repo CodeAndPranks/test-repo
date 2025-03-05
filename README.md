@@ -15,6 +15,13 @@ https://codeandpranks.github.io/test-repo/link.html
 
 [![Video:My final result](https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
 
+# image test
+[Readmee-Image](https://github.com/CodeAndPranks/test-repo/blob/main/PXL_20250203_231900952.jpg)
+
+# image test2
+[![image test2]
+(https://github.com/CodeAndPranks/Zoom/blob/main/PXL_20250203_231900952.jpg)
+
 
 #  auto-download video from a URL syntax🚫
 [https:/,my_ttt_video.com](https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
