@@ -10,14 +10,19 @@ https://codeandpranks.github.io/test-repo
 Some slightly evil links here;
 https://codeandpranks.github.io/test-repo/link.html
 
-[![Video: My final result]
+[![Video: My final result1]
 (https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
 
-![download:trix](https://github.com/CodeAndPranks/test-repo/blob/main/PXL_20250203_231900952.jpg)
+#[![Video: My final result2]
+(https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
 
-#  redirect to video 
+#image-down
+![download-img-:trix](https://github.com/CodeAndPranks/test-repo/blob/main/PXL_20250203_231900952.jpg)
+
+#  download video syntax
 [https://vg.no](https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
 
+Anchor tag:
 <a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">Watch the video: My final result</a>
 
 
