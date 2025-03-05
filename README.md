@@ -11,24 +11,22 @@ https://codeandpranks.github.io/test-repo
 Some slightly evil links here;
 https://codeandpranks.github.io/test-repo/link.html
 
-# video-test
-[![Video: youtube](https://youtube.com)
-
-# video-test2
+# video-link
 [Video: youtube](https://youtube.com)
 
 # image test
 ![Readmee-Image](https://github.com/CodeAndPranks/test-repo/blob/main/PXL_20250203_231900952.jpg)
 
 
-#  auto-download video from a URL syntax🚫
+# auto-download video from a URL syntax🚫
 [https:/,my_ttt_video.com](https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
 
 # just testing 🚫
-![https:/,my_ttt_video.com](https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
+[https:/,my_ttt_video.com](https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
 
 Anchor tag:
-<a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">Watch the video: My final result</a>
+<a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">Watch my final result</a>
+
 
 
 <p align="center">(<a href="#up">Up to top</a>)</p>
