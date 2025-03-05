@@ -19,7 +19,7 @@ https://codeandpranks.github.io/test-repo/link.html
 Evil link in markdown format 🔗 
 [https://facebook.com](https://wim.no)
 
-## Video Demonstration (Fake redirect test)
+##  redirect test
 [https://facebook.com](https://www.tiktok.com/login)
 
 
