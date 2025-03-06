@@ -27,6 +27,5 @@ https://codeandpranks.github.io/test-repo/link.html
 Anchor tag:
 <a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">Watch my final result</a>
 
-
-
+<br><br>
 <p align="center">(<a href="#up">Up to top</a>)</p>
