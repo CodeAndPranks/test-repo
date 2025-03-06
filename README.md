@@ -22,10 +22,10 @@ https://codeandpranks.github.io/test-repo/link.html
 # play-video if YouTub-videos)🟡
 [https:/random-youtube-video.com](https://youtu.be/v_1iqtOnUMg?si=MbDw6cZLyCh1zJtZ)
 
-🔗Anchor tag download if video-in-repo:
+🔗Anchor-tag download if video-in-repo:
 <a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">Watch my final result🟡</a>
 
-🔗Anchor tag not-download YouTube-videos:
+🔗Anchor-tag not-download YouTube-videos:
 <a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">Watch my final result🟡</a>
 
 <br><br>
