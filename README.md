@@ -16,14 +16,17 @@ https://codeandpranks.github.io/test-repo/link.html
 # YouTube-start-page.No download🟢
 [Video: youtube](https://youtube.com)
 
-# auto-download video from any URL syntax🔴
+# auto-download if readmee-videos🔴
 [https:/my-ttt-video.com](https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
 
-# auto-download from URL(YouTube)🟡
+# play-video if YouTub-videos)🟡
 [https:/random-youtube-video.com](https://youtu.be/v_1iqtOnUMg?si=MbDw6cZLyCh1zJtZ)
 
-🔗Anchor tag:
+🔗Anchor tag download if video-in-repo:
 <a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">Watch my final result🟡</a>
+
+🔗Anchor tag not-download YouTube-videos:
+<a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">Watch my final result🟡</a>
 
 <br><br>
 <p align="center">(<a href="#up">Up to top</a>)</p>
