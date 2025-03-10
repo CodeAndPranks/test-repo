@@ -23,7 +23,7 @@ from git-repo.Hope github fix🔴
 - YouTube etc start without download🟢
 [Video: youtube](https://youtube.com)
 
-  # html: anchor-tag in readme.md🔴
+  # html: anchor-tag in readme.md
   - anchor tags auto-download git-videos.
 <a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">Watch my final result🔴</a>
 
