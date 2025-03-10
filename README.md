@@ -1,6 +1,6 @@
 # My test repository🚫<a id="up"></a>
 ## Risk-level:
-  No=🔴  🟢Yes  🟡Maybee/Maybee-not
+  🔴No  🟢Yes  🟡Maybee/Maybee-not
  
 🔗Check Code🟢
 https://github.com/codeandpranks/test-repo 
