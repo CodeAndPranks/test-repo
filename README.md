@@ -15,7 +15,7 @@ https://codeandpranks.github.io/test-repo/link.html
 
 # Image in readme.md,mardowm format🟢
 ![Readmee-Image](https://github.com/CodeAndPranks/test-repo/blob/main/PXL_20250203_231900952.jpg)
-# Video links and auto-download in readme.md files.
+# Video links and auto-download in readme.md
 - 1.markdown format auto-download videos 
 from githup repos🔴
 [https://my_github-repo-video.com](https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
