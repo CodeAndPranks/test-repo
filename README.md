@@ -17,18 +17,18 @@ https://codeandpranks.github.io/test-repo/link.html
 ![Readmee-Image](https://github.com/CodeAndPranks/test-repo/blob/main/PXL_20250203_231900952.jpg)
 # Video links and auto-download in readme.md files.
 - 1.markdown format auto-download videos 
-from git-repos🔴
+from githup repos🔴
 [https://my_github-repo-video.com](https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
 
-- 2.YouTube etc start without download🟢
-[Video: youtube](https://youtube.com)
+- 2.YouTube etc start without download
+ [Video: youtube](https://youtube.com)🟢
 
   # html: anchor-tag in readme.md
-  - 1.anchor tags auto-download git-videos:
-<a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">Watch my final result🔴</a>
+- 1.anchor tags auto-download github repo videos:
+<a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">ny_github-repo-video.com🔴</a>
 
 - 2.anchor tags start e.g YouTube videos:
-<a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video🟢</a
+<a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video🟢</a>
 # TODO  **todo**
 # markdown color test svg
 
