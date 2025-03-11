@@ -20,12 +20,12 @@ https://codeandpranks.github.io/test-repo/link.html
 from githup repos🔴
 [https://my_github-repo-video.com](https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
 
-- 2.YouTube etc start without download
- [Video: youtube](https://youtube.com)🟢
+- 2.markdown start e.g youtube videos🟢
+ [random_youtube-video.com](https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV)
 
   # html: anchor-tag in readme.md
 - 1.anchor tags auto-download github repo videos:
-<a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">ny_github-repo-video.com🔴</a>
+<a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">my_github-repo-video.com🔴</a>
 
 - 2.anchor tags start e.g YouTube videos:
 <a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video🟢</a>
@@ -50,6 +50,6 @@ from githup repos🔴
 - **Dark Pink**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF1493&background=008000&width=435&lines=Dark+Pink+Text+Green+Background)
 - **Pink**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFC0CB&background=008000&width=435&lines=Pink+Text+Green+Background)
 
-
+<p align="center">(<a href="https://github.com/CodeAndPranks/ ">To CodeAndPranks</a>)</p>
 <br><br>
 <p align="center">(<a href="#up">Up to top</a>)</p>
