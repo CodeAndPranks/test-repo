@@ -44,7 +44,7 @@ from githup repos🔴
 - **Pink**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFC0CB&background=FFFF00&width=435&lines=Pink+Text+Yellow+Background)
 - **Green**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=008000&background=FFFF00&width=435&lines=Green+Text+Yellow+Background)
 # Color green in markdown svg 🟩
-- **Yellow**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFF00&background=008000&width=435&lines=Test+Yellow+Text+Green+Background)
+- **Green**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=008000&background=000000&width=435&lines=Test+Green+Text+Black+Background)
 - **Deep Red**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8B0000&background=008000&width=435&lines=Deep+Red+Text+Green+Background)
 - **Blue**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0000FF&background=008000&width=435&lines=Blue+Text+Green+Background)
 - **Dark Grey**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=333333&background=008000&width=435&lines=Dark+Grey+Text+Green+Background)
@@ -53,7 +53,7 @@ from githup repos🔴
 
 
 # Color red in markdown svg 🟥
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFF00&background=000000&width=435&lines=Test+Yellow+Text+Black+Background)
+**Red on Black** ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF0000&background=000000&width=435&lines=Test+Red+Text+Black+Background)
 - **Deep Red**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8B0000&background=FF0000&width=435&lines=Deep+Red+Text+Red+Background)
 - **Blue**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0000FF&background=FF0000&width=435&lines=Blue+Text+Red+Background)
 - **Dark Grey**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=333333&background=FF0000&width=435&lines=Dark+Grey+Text+Red+Background)
@@ -62,6 +62,8 @@ from githup repos🔴
 - **Green**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=008000&background=FF0000&width=435&lines=Green+Text+Red+Background)
 
 # Color blue in markdown svg 🟦
+**Blue on Black**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFF00&background=000000&width=435&lines=Test+Blue+Text+Black+Background)
 - **Yellow**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFF00&background=0000FF&width=435&lines=Test+Yellow+Text+Blue+Background)
 - **Deep Red**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8B0000&background=0000FF&width=435&lines=Deep+Red+Text+Blue+Background)
 - **Blue**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0000FF&background=0000FF&width=435&lines=Blue+Text+Blue+Background)
