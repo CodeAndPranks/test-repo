@@ -63,7 +63,7 @@ from githup repos🔴
 
 # Color blue in markdown svg 🟦
 **Blue on Black**
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFF00&background=000000&width=435&lines=Test+Blue+Text+Black+Background)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0000FF&background=000000&width=435&lines=Test+Blue+Text+Black+Background)
 - **Yellow**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFF00&background=0000FF&width=435&lines=Test+Yellow+Text+Blue+Background)
 - **Deep Red**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8B0000&background=0000FF&width=435&lines=Deep+Red+Text+Blue+Background)
 - **Blue**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0000FF&background=0000FF&width=435&lines=Blue+Text+Blue+Background)
