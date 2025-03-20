@@ -11,16 +11,17 @@
     <ul>
         <li><a href="https://wim.no" target="_blank">facebook.com</a></li><br>
         <li><a href="https://gmail.com" target="_blank">TikTok.com</a></li><br>
-        <li> id="alert-li">manUdt</a>
-        </li>
+        <li> <a  href="#" id="alert-li">manUdt</a></li>
+        <li> <a  href="#"># in-ancor-test</a> </li>  
     </ul>
     <script>
         // Get the <li> element by Id.
         var alertLi = document.getElementById('alert-li');
 
-        // Add click listener to  <li> element
-        alertLi.addEventListener('click', function() {
-            alert("Crash Browsers.\nTo prevent suprise & anger moved to:\n https://github.com/codeandpranks/wiew");
+        alertLi.addEventListener('click', function(event) {
+            // Prevent [scroll to top] action of <a> tag
+            event.preventDefault();
+            alert("Crash Browsers⚠️\n To prevent suprise or anger moved to:\n https://github.com/codeandpranks/wiew");
         });
     </script>
   <center><a href="https://github.com/codeandpranks/test-repo" target="_blank">Back to test-repo</a></center>
