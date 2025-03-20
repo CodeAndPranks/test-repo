@@ -1,5 +1,6 @@
 <a id="up"></a>
-#  Links and auto-download in readme.md files + color-blind test.
+#  Links and auto-download in readme.md files 
+# color-blind test.
 ## Risk-levels:
  
   🔴No  🟢Yes  🟡Maybee/Maybee-not
@@ -16,26 +17,50 @@ https://codeandpranks.github.io/test-repo/link.html
 
 ## Video link behavior in readme.md files. 
   ## markdown format link:
-- 1.markdown link auto-download github repo video🟢
+- 1.md auto-download video from github repo🔴
 [https://my_github-repo-video.com](https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
 
-- 2.markdown link start e.g youtube-video🟢
+- 2.md link start e.g youtube videos🟢
  [random_youtube-video.com](https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV)
 
 ## html anchor-tag link:
-- 1.anchor-tag auto-download github repo video:
-<a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">my_github-repo-video.com🟢</a>
+- 1.anchor-tag auto-download video from github repo:
+<a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">my_github-repo-video.com🔴</a>
 
 - 2.anchor-tag start e.g YouTube videos:
 <a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video🟢</a>
 <hr>
 
-## SVG markdown color blind test:
-**7 of 100 men(15 %),and 1 of 100 women are color-blind(mostly red-green).**
+# Color blind test.
+## 7 of 100 men(15 %),and 1 of 100 women are color-blind mostly red-green.
+## yellow,green,red [deep] and blue mix tell.Do you pass?
 
 - **White on black**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&background=000000&width=435&lines=Test+White+Text+black+Background)
+ - **Yellow**:
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFF00&background=000000&width=435&lines=Test+Yellow+Text+Black+Background)
+
+- **Green**:
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&background=000000&width=435&lines=Test+Green+Text+Black+Background)
+
+- **Deep Red**:
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8B0000&background=000000&width=435&lines=Test+Deep+Red+Text+Black+Background)
+
+- **Color Blue**:
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0000FF&background=000000&width=435&lines=Test+Blue+Text+Black+Background)
 - **Black on white**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&background=FFFFFF00&width=435&lines=Test+Black+Text+White+Background)
-# Color yellow in markdown svg 🟨
+- **Yellow**:
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFF00&background=FFFFFF00&width=435&lines=Test+Yellow+Text+White+Background)
+
+- **Green**:
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&background=FFFFFF00&width=435&lines=Test+Green+Text+White+Background)
+
+- **Deep Red**:
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8B0000&background=FFFFFF00&width=435&lines=Test+Deep+Red+Text+White+Background)
+
+- **Blue**:
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0000FF&background=FFFFFF00&width=435&lines=Test+Blue+Text+White+Background)
+
+# Color yellow 🟨
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFF00&background=000000&width=435&lines=Test+Yellow+Text+Black+Background)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&background=FFFF00&width=435&lines=Test+Black+Text+Yellow+Background)
 - **Deep Red**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8B0000&background=FFFF00&width=435&lines=Deep+Red+Text+Yellow+Background)
@@ -44,7 +69,7 @@ https://codeandpranks.github.io/test-repo/link.html
 - **Dark Pink**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF1493&background=FFFF00&width=435&lines=Dark+Pink+Text+Yellow+Background)
 - **Pink**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFC0CB&background=FFFF00&width=435&lines=Pink+Text+Yellow+Background)
 - **Green**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=008000&background=FFFF00&width=435&lines=Green+Text+Yellow+Background)
-# Color green in markdown svg 🟩
+# Color green 🟩
 **Green on Black** ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=008000&background=000000&width=435&lines=Test+Green+Text+Black+Background)
 **Black on Green**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&background=008000&width=435&lines=Test+Green+Text+Black+Background)
 - **Deep Red**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8B0000&background=008000&width=435&lines=Deep+Red+Text+Green+Background)
@@ -54,7 +79,7 @@ https://codeandpranks.github.io/test-repo/link.html
 - **Pink**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFC0CB&background=008000&width=435&lines=Pink+Text+Green+Background)
 
 
-# Color red in markdown svg 🟥
+# Color deep red 🟥
 **Deep Red on Black** ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF0000&background=000000&width=435&lines=Test+Deep+Red+Text+Black+Background)
 **Black on Deep Red**
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&background=FF0000&width=435&lines=Test+Black+Text+Deep+Red+Background)
@@ -65,7 +90,7 @@ https://codeandpranks.github.io/test-repo/link.html
 - **Pink**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFC0CB&background=FF0000&width=435&lines=Pink+Text+Deep+Red+Background)
 - **Green**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=008000&background=FF0000&width=435&lines=Green+Text+Deep+Red+Background)
 
-# Color blue in markdown svg 🟦
+# Color blue 🟦
 **Blue on Black**
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0000FF&background=000000&width=435&lines=Test+Blue+Text+Black+Background)
 **Black on Blue**
@@ -75,7 +100,7 @@ https://codeandpranks.github.io/test-repo/link.html
 - **Dark Grey**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=333333&background=0000FF&width=435&lines=Dark+Grey+Text+Blue+Background)
 - **Dark Pink**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF1493&background=0000FF&width=435&lines=Dark+Pink+Text+Blue+Background)
 - **Pink**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFC0CB&background=0000FF&width=435&lines=Pink+Text+Blue+Background)
-<br><br>
+<br><br><br>
 <p align="center">(<a href="https://github.com/CodeAndPranks/ ">To CodeAndPranks</a>)</p>
 <br><br>
 <p align="center">(<a href="#up">Up to top</a>)</p>
