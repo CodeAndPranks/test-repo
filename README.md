@@ -32,22 +32,10 @@ https://codeandpranks.github.io/test-repo/link.html
 <hr>
 
 # Color blind test.
-## 7 of 100 men(15 %),and 1 of 100 women are color-blind mostly red-green.
-## yellow,green,red [deep] and blue mix tell.Do you pass?
-
-- **White on black**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&background=000000&width=435&lines=Test+White+Text+black+Background)
- - **Yellow**:
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFF00&background=000000&width=435&lines=Test+Yellow+Text+Black+Background)
-
-- **Green**:
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&background=000000&width=435&lines=Test+Green+Text+Black+Background)
-
-- **Deep Red**:
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8B0000&background=000000&width=435&lines=Test+Deep+Red+Text+Black+Background)
-
-- **Color Blue**:
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0000FF&background=000000&width=435&lines=Test+Blue+Text+Black+Background)
-- **Black on white**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&background=FFFFFF00&width=435&lines=Test+Black+Text+White+Background)
+## 7 of 100 men(15 %),and 1 of 100 women are color-blind mostly red-green.Keep in mind when using colors.
+# Om deafult background-color:
+- **Black**
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&background=FFFFFF00&width=435&lines=Test+Black+Text+White+Background)
 - **Yellow**:
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFF00&background=FFFFFF00&width=435&lines=Test+Yellow+Text+White+Background)
 
@@ -59,7 +47,19 @@ https://codeandpranks.github.io/test-repo/link.html
 
 - **Blue**:
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0000FF&background=FFFFFF00&width=435&lines=Test+Blue+Text+White+Background)
+# Black ⬛
+- **White on black**: ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&background=000000&width=435&lines=Test+White+Text+black+Background)
+ - **Yellow**:
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFF00&background=000000&width=435&lines=Test+Yellow+Text+Black+Background)
 
+- **Green**:
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&background=000000&width=435&lines=Test+Green+Text+Black+Background)
+
+- **Deep Red**:
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8B0000&background=000000&width=435&lines=Test+Deep+Red+Text+Black+Background)
+
+- **Blue**:
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0000FF&background=000000&width=435&lines=Test+Blue+Text+Black+Background)
 # Color yellow 🟨
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFF00&background=000000&width=435&lines=Test+Yellow+Text+Black+Background)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&background=FFFF00&width=435&lines=Test+Black+Text+Yellow+Background)
