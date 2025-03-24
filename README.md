@@ -1,5 +1,13 @@
 <a id="up"></a>
 #  Links and auto-download in readme.md files 
+<h4 align="center">
+  OS compatibility :
+  <br><br>
+  <img src="https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows">
+  <img src="https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/Android-05122A?style=for-the-badge&logo=android">
+  <img src="https://img.shields.io/badge/macOS-05122A?style=for-the-badge&logo=macos">
+</h4>
 # + A color-blind test.
 ## Risk-levels:
  
@@ -105,3 +113,5 @@ https://codeandpranks.github.io/test-repo/link.html
 <p align="center">(<a href="https://github.com/CodeAndPranks/ ">To CodeAndPranks</a>)</p>
 <br><br>
 <p align="center">(<a href="#up">Up to top</a>)</p>
+<img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/javaScript-05122A?style=for-the-badge&logo=JavaScript">
