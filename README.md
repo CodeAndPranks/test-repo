@@ -10,7 +10,8 @@ https://github.com/codeandpranks/test-repo
  
 - Test link for CSS color-flash-zoom 🟢
 https://codeandpranks.github.io/test-repo
-
+> # visitors counter:
+>![Visitor Count](https://profile-counter.glitch.me/CodeAndpranks/count.svg)
 ## some slightly evil link-test🟡
 https://codeandpranks.github.io/test-repo/link.html
 <hr>
