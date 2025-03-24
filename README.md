@@ -1,6 +1,6 @@
 <a id="up"></a>
 #  Links and auto-download in readme.md files 
-# color-blind test.
+# + A color-blind test.
 ## Risk-levels:
  
   🔴No  🟢Yes  🟡Maybee/Maybee-not
@@ -10,8 +10,8 @@ https://github.com/codeandpranks/test-repo
  
 - Test link for CSS color-flash-zoom 🟢
 https://codeandpranks.github.io/test-repo
-> # visitors counter:
->![Visitor Count](https://profile-counter.glitch.me/CodeAndpranks/count.svg)
+ # visitors counter
+![Visitor Count](https://profile-counter.glitch.me/CodeAndpranks/count.svg)
 ## some slightly evil link-test🟡
 https://codeandpranks.github.io/test-repo/link.html
 <hr>
