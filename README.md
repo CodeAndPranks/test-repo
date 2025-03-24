@@ -29,7 +29,7 @@ https://codeandpranks.github.io/test-repo/link.html
 <a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">my_github-repo-video.com🔴</a>
 
 - 2.anchor-tag start e.g YouTube videos:
-<a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video🟢</a>
+<a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video.com🟢</a>
 <hr>
 
 # Color blind test.
