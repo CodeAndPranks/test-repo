@@ -12,8 +12,18 @@
 <h1>HELLO WORLD </h1>
 <h2>This is  <sub> sub-Down </sub>and<sup>this is sup-Up</h2></sup>
 <p>deal with it.....</p></center>center>
-<img src="https://img.freepik.com/premium-photo/ransomware-concept-with-red-neon-alert-sign-with-blurred-background_507676-461.jpg?w=740"> 
+<img src="https://img.freepik.com/premium-photo/ransomware-concept-with-red-neon-alert-sign-with-blurred-background_507676-461.jpg"> 
       <style>
+        img {
+    max-width: 100%; /* prøver å begrense bildet bredde */
+    height: auto; 
+}
+
+@media (max-width: 600px) {
+    img {
+        width: 100%; /* Full bredde på små skjermer */
+    }
+}
 html {
     animation: adjustHue 10s alternate infinite;
 }
