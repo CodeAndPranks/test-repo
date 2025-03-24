@@ -33,8 +33,8 @@ https://codeandpranks.github.io/test-repo/link.html
 <hr>
 
 # Color blind test.
-## 7 of 100 men(15 %),and 1 of 100 women are color-blind mostly red-green.Keep in mind when using colors.
-# Om deafult background-color:
+## 7 of 100 men(15 %),and 1 of 100 women are color-blind mostly red-green.Keep in mind when choose colors.
+# On you deafult background-color:
 - **Black**
  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&background=FFFFFF00&width=435&lines=Test+Black+Text+White+Background)
 - **Yellow**:
