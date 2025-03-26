@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Android-05122A?style=for-the-badge&logo=android">
   <img src="https://img.shields.io/badge/macOS-05122A?style=for-the-badge&logo=macos">
 </h4>
-# + A color-blind test.
+
 ## Risk-levels:
  
   🔴No  🟢Yes  🟡Maybee/Maybee-not
