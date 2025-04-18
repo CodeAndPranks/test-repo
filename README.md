@@ -11,20 +11,16 @@
 
 ## Risk-levels:
  
-  🔴No  🟢Yes  🟡Maybee/Maybee-not
-  
-- Check Code🟢
+  🔴No 🟢yes 🟡maybe/maybee-not
+- Ttis test repo code🟢
 https://github.com/codeandpranks/test-repo 
  
-- Test link for CSS color-flash-zoom 🟢
-https://codeandpranks.github.io/test-repo
  # visitors counter
+ - Vistor add my constribute too = ~400
 ![Visitor Count](https://profile-counter.glitch.me/CodeAndpranks/count.svg)
-## some slightly evil link-test🟡
-https://codeandpranks.github.io/test-repo/link.html
-<hr>
 
-## Video link behavior in readme.md files. 
+## Video link behavior in readme.md 
+
   ## markdown format link:
 - 1.md auto-download video from github repo🔴
 [https://my_github-repo-video.com](https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
