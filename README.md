@@ -4,7 +4,7 @@
   OS compatibility :
   <br><br>
   <img src="https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows">
-  
+  <img stc=" " alt="img-emty-tezt">
   <img src="https://img.shields.io/badge/Android-05122A?style=for-the-badge&logo=android">
   
 </h4>
