@@ -4,9 +4,9 @@
   OS compatibility :
   <br><br>
   <img src="https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows">
-  <img src="https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux">
+  
   <img src="https://img.shields.io/badge/Android-05122A?style=for-the-badge&logo=android">
-  <img src="https://img.shields.io/badge/macOS-05122A?style=for-the-badge&logo=macos">
+  
 </h4>
 
 ## Risk-levels:
