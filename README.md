@@ -1,5 +1,5 @@
 <a id="up"></a>
-#  Links and auto-download in readme.md files 
+#  Links and auto-download in readme.md files + Color Test
 <h4 align="center">
   OS compatibility :
   <br><br>
