@@ -4,7 +4,7 @@
   OS compatibility :
   <br><br>
   <img src="https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows">
-  <img stc=" " alt="img-emty-tezt">
+  <img stc=" " alt="emty-img-test">
   <img src="https://img.shields.io/badge/Android-05122A?style=for-the-badge&logo=android">
   
 </h4>
@@ -109,4 +109,4 @@ https://github.com/codeandpranks/test-repo
 <p align="center">(<a href="https://github.com/CodeAndPranks/ ">To CodeAndPranks</a>)</p>
 <br><br>
 <p align="center">(<a href="#up">Up to top</a>)</p>
-<img src="https://img.shields.io/badge/javaScript-05122A?style=for-the-badge&logo=JavaScript">
+<img src="https://img.shields.io/badge/markdown-05122A?style=for-the-badge&logo=markdown">
