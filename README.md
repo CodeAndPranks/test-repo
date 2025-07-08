@@ -4,7 +4,7 @@
   OS compatibility :
   <br><br>
   <img src="https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows">
-  <img stc=" " alt="emty-img-test">
+  <img src=" " alt="emty-icon = img-test">
   <img src="https://img.shields.io/badge/Android-05122A?style=for-the-badge&logo=android">
   
 </h4
@@ -16,7 +16,7 @@
 https://github.com/codeandpranks/test-repo 
  
  # visitors counter
- - Vistor add my constribute too.So minus ~ 400
+ - Vistor add my constribute.So minus ~ 400 make correckt visitors
 ![Visitor Count](https://profile-counter.glitch.me/CodeAndpranks-test-repo/count.svg)
 
 ## Video link behavior in readme.md 
@@ -26,7 +26,7 @@ https://github.com/codeandpranks/test-repo
 [https://my_github-repo-video.com](https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
 
 - 2.md link start e.g youtube videos🟢
- [random_youtube-video.com](https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV)
+  [random_youtube-video.com](https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV)
 
 ## html anchor-tag link:
 - 1.anchor-tag auto-download video from github repo:
