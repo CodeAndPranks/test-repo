@@ -17,7 +17,7 @@ https://github.com/codeandpranks/test-repo
  
  # visitors counter
  - Vistor add my constribute too = ~400
-![Visitor Count](https://profile-counter.glitch.me/CodeAndpranks/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/CodeAndpranks-test-repo/count.svg)
 
 ## Video link behavior in readme.md 
 
