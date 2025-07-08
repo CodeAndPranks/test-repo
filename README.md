@@ -7,16 +7,16 @@
   <img stc=" " alt="emty-img-test">
   <img src="https://img.shields.io/badge/Android-05122A?style=for-the-badge&logo=android">
   
-</h4>
+</h4
 
 ## Risk-levels:
  
-  🔴No 🟢yes 🟡maybe/maybee-not
-- Ttis test repo code🟢
+  🟢Go 🔴No  🟡maybe/maybee-Not
+- this test repo code🟢
 https://github.com/codeandpranks/test-repo 
  
  # visitors counter
- - Vistor add my constribute too = ~400
+ - Vistor add my constribute too.So minus ~ 400
 ![Visitor Count](https://profile-counter.glitch.me/CodeAndpranks-test-repo/count.svg)
 
 ## Video link behavior in readme.md 
