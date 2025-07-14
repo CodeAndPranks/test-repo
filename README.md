@@ -16,9 +16,8 @@
 https://github.com/codeandpranks/test-repo 
  
  # visitors counter
- - Vistor add my constribute.So minus ~ 400 make correckt visitors
-![Visitor Count](https://profile-counter.glitch.me/CodeAndpranks/count.svg)
-
+ - Vistor add my constribute.So minus ~ 400 make correckt 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=codeandpranks-test+repo.visitor-badge&left_text=Besøkend)
 ## Video link behavior in readme.md 
 
   ## markdown format link:
