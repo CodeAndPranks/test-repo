@@ -16,10 +16,9 @@
 https://github.com/codeandpranks/test-repo 
  
  # visitors counter
- - Vistor add my constribute.So minus ~ 400 make correckt 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=codeandpranks-repo.visitor-badge&left_text=Besøkend)
 
-# Reserve teller:
+# Kontroll teller [- 4]:
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=CodeAndPranks-test-repo&repo=github-visitors-badge&countColor=%237B1E7A)
 ## Video link behavior in readme.md 
