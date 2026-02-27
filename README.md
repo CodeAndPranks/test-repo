@@ -11,7 +11,8 @@
 
 ![My Image](no.png)
 
- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=codeandpranks-test-repo.visitor-badge&left_text=Besøkend)
+ 
+![](https://komarev.com/ghpvc/?username=CodeAndPranks-test-repo&abbreviated=true)
 
 ## Risk-levels:
  
