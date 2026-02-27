@@ -20,10 +20,6 @@
   🟢Go 🔴No  🟡maybe/maybee-Not
 - this test repo code🟢
 https://github.com/codeandpranks/test-repo 
- 
- # visitors counter 1 (Not work)
- 
-![](https://visitor-counter-badge.vercel.app/api/CodeAndPranks-test-repo)
 
 # Kontroll teller [- 4]:
 
@@ -33,18 +29,22 @@ https://github.com/codeandpranks/test-repo
 
   ## markdown format link:
 - 1.md auto-download video from github repo🔴
-[https://my_github-repo-video.com](https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4)
+[https://my_github-repo-video.com](https://github.com/CodeAndPranks/na.boat.mp4)
 
 - 2.md link start e.g youtube videos🟢
   [random_youtube-video.com](https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV)
 
 ## html anchor-tag link:
 - 1.anchor-tag auto-download video from github repo:
-<a href="https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC/raw/main/ttt.mp4" target="_blank">my_github-repo-video.com🔴</a>
+<a href="https://github.com/CodeAndPranks-test-repo/na_boat.mp4" target="_blank">repo-video.com🔴</a>
 
 - 2.anchor-tag start e.g YouTube videos:
 <a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video.com🟢</a>
-<hr>
+
+# sound_download_test:
+## html anchor-tag link:
+- 1.anchor-tag auto-download sound from github repo:
+<a href="https://github.com/CodeAndPranks-test-repo/sound.mp3">sound_mp3</a>
 
 # Color blind test.
 ## 7 of 100 men(15 %),and 1 of 100 women are color-blind mostly red-green.Keep in mind when choose colors.
