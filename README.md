@@ -11,7 +11,7 @@
 
 ![My Image](no.png)
 
- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=codeandpranks-repo.visitor-badge&left_text=Besøkend)
+ ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=codeandpranks-test-repo.visitor-badge&left_text=Besøkend)
 
 ## Risk-levels:
  
@@ -20,7 +20,7 @@
 https://github.com/codeandpranks/test-repo 
  
  # visitors counter
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=codeandpranks-repo.visitor-badge&left_text=Besøkend)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=codeandpranks-test-repo.visitor-badge&left_text=Besøkend)
 
 # Kontroll teller [- 4]:
 
