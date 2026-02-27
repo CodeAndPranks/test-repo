@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows">
  
   <img src="https://img.shields.io/badge/Android-05122A?style=for-the-badge&logo=android">
-</h4
+
 - Imge- test
 
 ![My Image](no.png)
