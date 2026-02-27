@@ -14,18 +14,21 @@
  
 ![](https://komarev.com/ghpvc/?username=CodeAndPranks-test-repo&abbreviated=true)
 
+</h4>
 ## Risk-levels:
  
   🟢Go 🔴No  🟡maybe/maybee-Not
 - this test repo code🟢
 https://github.com/codeandpranks/test-repo 
  
- # visitors counter
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=codeandpranks-test-repo.visitor-badge&left_text=Besøkend)
+ # visitors counter 1 (Not work)
+ 
+![](https://visitor-counter-badge.vercel.app/api/CodeAndPranks-test-repo)
 
 # Kontroll teller [- 4]:
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=CodeAndPranks-test-repo&repo=github-visitors-badge&countColor=%237B1E7A)
+
 ## Video link behavior in readme.md 
 
   ## markdown format link:
