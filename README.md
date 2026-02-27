@@ -29,14 +29,14 @@ https://github.com/codeandpranks/test-repo
 
   ## markdown format link:
 - 1.md auto-download video from github repo🔴
-[https://my_github-repo-video.com](https://github.com/CodeAndPranks/na.boat.mp4)
+[https://my_fake_video.com](https://github.com/CodeAndPranks/na.boat.mp4)
 
 - 2.md link start e.g youtube videos🟢
   [random_youtube-video.com](https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV)
 
 ## html anchor-tag link:
 - 1.anchor-tag auto-download video from github repo:
-<a href="https://github.com/CodeAndPranks-test-repo/na_boat.mp4" target="_blank">repo-video.com🔴</a>
+<a href="https://github.com/CodeAndPranks-test-repo/na_boat.mp4" target="_blank">https://fake-link-repo-vido.com🔴</a>
 
 - 2.anchor-tag start e.g YouTube videos:
 <a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video.com🟢</a>
