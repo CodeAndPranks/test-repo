@@ -29,26 +29,31 @@ https://github.com/codeandpranks/test-repo
 
   ## markdown format link(ikke main)
 - 1.md auto-download video from github repo🔴
-[https://my_fake_video.com](https://github.com/CodeAndPranks/test-repo/main/na_boat.mp4)
+[my_fake_video.com](https://github.com/CodeAndPranks/test-repo/main/na_boat.mp4)
 
 - 2.md format link start e.g youtube videos🟢
   [random_youtube-video.com](https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV)
 
 ## html anchor-tag link:
-- 1.anchor-tag auto-download video from github repo:
-<a href="https://github.com/CodeAndPranks-test-repo/na_boat.mp4" target="_blank">https://fake-link-repo-vido.com🔴</a>
+<a href="https://github.com/CodeAndPranks-test-repo/blob/main/na_boat.mp4" target="_blank">link-repo-vido.com🔴</a>
+
+## html anchor-tag link:
+<a href="https://github.com/CodeAndPranks-test-repo/main/na_boat.mp4" target="_blank">link-repo-vido.com🔴</a>
+
+## html anchor-tag link:
+<a href="https://github.com/CodeAndPranks-test-repo/na_boat.mp4" target="_blank">link-repo-vido.com🔴</a>
 
 - 2.anchor-tag start e.g YouTube videos:
 <a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video.com🟢</a>
 
 # Test video fra repo med "main"
 - chek video & lyd  path i url
-<a href="https://raw.githubusercontent.com/CodeAndPranks-test-repo/main/sound.mp3" target="_blank">Lyd fil</a><audio controls><source src="https://raw.githubusercontent.com/CodeAndPranks-test-repo/main/sound.mp3" type="audio/mpeg"> Din nettleser støtter ikke lydklipp.</audio>
+<a href="https://CodeAndPranks-test-repo/raw/sound.mp3" target="_blank">Lyd fil</a><audio controls><source src="https://raw.githubusercontent.com/CodeAndPranks-test-repo/main/sound.mp3" type="audio/mpeg"> Din nettleser støtter ikke lydklipp.</audio>
 
 
 # sound_test main;
 ## html anchor-tag link:
-<a href="#"> <audio controls> <source src="https://raw.githubusercontent.com/CodeAndPranks-test-repo/main/sound.mp3" type="audio/mpeg">Lyd MP3</audio>Lyd fil 2</a>
+<a href="#"> <audio controls> <source src="https://CodeAndPranks-test-repo/sound.mp3" type="audio/mpeg">Lyd MP3</audio>Lyd fil 2</a>
 
 
 # Color blind test.
