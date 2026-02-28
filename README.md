@@ -27,9 +27,9 @@ https://github.com/codeandpranks/test-repo
 
 ## Video link behavior in readme.md 
 
-  ## markdown format link:
+  ## markdown format link(ikke main)
 - 1.md auto-download video from github repo🔴
-[https://my_fake_video.com](https://github.com/CodeAndPranks/test-repo/na.boat.mp4)
+[https://my_fake_video.com](https://github.com/CodeAndPranks/test-repo/main/na_boat.mp4)
 
 - 2.md format link start e.g youtube videos🟢
   [random_youtube-video.com](https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV)
@@ -41,10 +41,15 @@ https://github.com/codeandpranks/test-repo
 - 2.anchor-tag start e.g YouTube videos:
 <a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video.com🟢</a>
 
-# sound_test:
+# Test video fra repo med "main"
+- chek video & lyd  path i url
+<a href="https://raw.githubusercontent.com/CodeAndPranks-test-repo/main/sound.mp3" target="_blank">Lyd fil</a><audio controls><source src="https://raw.githubusercontent.com/CodeAndPranks-test-repo/main/sound.mp3" type="audio/mpeg"> Din nettleser støtter ikke lydklipp.</audio>
+
+
+# sound_test main;
 ## html anchor-tag link:
- <audio controls>
-    <source src="https://raw.githubusercontent.com/CodeAndPranks-test-repo/main/sound.mp3" type="audio/mpeg"> browser</audio>
+<a href="#"> <audio controls> <source src="https://raw.githubusercontent.com/CodeAndPranks-test-repo/main/sound.mp3" type="audio/mpeg">Lyd MP3</audio>Lyd fil 2</a>
+
 
 # Color blind test.
 ## 7 of 100 men(15 %),and 1 of 100 women are color-blind mostly red-green.Keep in mind when choose colors.
