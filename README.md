@@ -27,17 +27,15 @@ https://github.com/codeandpranks/test-repo
 
 ## Video link behavior in readme.md 
 
-  ## markdown format link(
+  ## markdown format link
 - 1.md 
-[my_fake_video.com](https://github.com/CodeAndPranks/test-repo/na_boat.mp4)
+[my_fake_video.com](na_boat.mp4)
 
 - 2.md format link start e.g youtube videos🟢
   [random_youtube-video.com](https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV)
 
-## html anchor-tag link:
-<a href="https://github.com/CodeAndPranks-test-repo/na_boat.mp4" target="_blank">link-repo-vido.com🔴</a>
-
-
+## mp4_video in html anchor-tag :
+<a href="na_boat.mp4" target="_blank">link-repo-vido.com🔴</a>
 
 - 2.anchor-tag start e.g YouTube videos:
 <a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video.com🟢</a>
@@ -46,8 +44,8 @@ https://github.com/codeandpranks/test-repo
 <audio controls><source src="https://raw.githubusercontent.com/CodeAndPranks-test-repo/main/sound.mp3" type="audio/mpeg"> Din nettleser støtter ikke lydklipp.</audio>
 
 
-# sound_test script 
-<a href="https://github.com/codeandpranks/test-repo/sound.html">link</a>
+# sound_test script anchor.
+<a href="sound.html">link</a>
 
 ## END OF TEST'S !
 
