@@ -27,9 +27,12 @@ https://github.com/codeandpranks/test-repo
 
 ## Video link behavior in readme.md 
 
+![Video:my final resoult](https://github.com/CodeAndPranks/test-repo/raw/main/na_boat.mp4)
+<hr>
+
   ## markdown format link
 - 1.md 
-[my_fake_video.com](na_boat.mp4)
+![my_fake_video.com](na_boat.mp4)
 
 - 2.md format link start e.g youtube videos🟢
   [random_youtube-video.com](https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV)
