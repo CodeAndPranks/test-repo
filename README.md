@@ -21,11 +21,12 @@
 - this test repo code🟢
 https://github.com/codeandpranks/test-repo 
 
-# Kontroll teller [- 4]:
+- CSS_index_file_repo
+https://github.com/codeandpranks/test-repo/index.html
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=CodeAndPranks-test-repo&repo=github-visitors-badge&countColor=%237B1E7A)
 
-## Video link behavior in readme.md 
+## Video link raw/main in readme.md 
 
 ![Video:my final resoult](https://github.com/CodeAndPranks/test-repo/raw/main/na_boat.mp4)
 <hr>
@@ -37,8 +38,11 @@ https://github.com/codeandpranks/test-repo
 - 2.md format link start e.g youtube videos🟢
   [random_youtube-video.com](https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV)
 
-## mp4_video in html anchor-tag :
+## video na_boat i anchor-tag :
 <a href="na_boat.mp4" target="_blank">link-repo-vido.com🔴</a>
+
+## video na_boat anchor-tag + url
+https://github.com/CodeAndPranks/test-repo/raw/main/na_boat.mp4
 
 - 2.anchor-tag start e.g YouTube videos:
 <a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video.com🟢</a>
