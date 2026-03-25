@@ -38,21 +38,21 @@ https://github.com/codeandpranks/test-repo/index.html
 - 2.md format link start e.g youtube videos🟢
   [random_youtube-video.com](https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV)
 
-## video na_boat i anchor-tag :
+## video na_boat i anchor-tag raw/main:
 <a href="na_boat.mp4" target="_blank">link-repo-vido.com🔴</a>
 
-## video na_boat anchor-tag + url
+## video na_boat https url
 https://github.com/CodeAndPranks/test-repo/raw/main/na_boat.mp4
 
 - 2.anchor-tag start e.g YouTube videos:
 <a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video.com🟢</a>
 
-# Test video fra repo med "main"
+# Test audio fra repo 
 <audio controls><source src="https://raw.githubusercontent.com/CodeAndPranks-test-repo/main/sound.mp3" type="audio/mpeg"> Din nettleser støtter ikke lydklipp.</audio>
 
 
-# sound_test script anchor.
-<a href="sound.html">link</a>
+# sound_test script html i anchor url
+<a href="https://CodeAndPranks/test-repo/sound.html">link</a>
 
 ## END OF TEST'S !
 
