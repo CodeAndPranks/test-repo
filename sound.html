@@ -9,11 +9,18 @@
       margin: 0;
       padding: 0;
       height: 100%;
-    }
-    .container {
+      
+      .container {
       position: relative;
       height: 100%;
     }
+    
+      .container_2 {
+      position: relative;
+      height: 100%;
+      }
+    }
+    
     #playButton {
       position: absolute;
       top: 30%;
@@ -31,11 +38,20 @@
   </style>
 </head>
 <body>
-  <div class="container">
-    <button id="playButton" onclick="playSound()">Gif for you</button>
-    <audio id="sound" src="sound.mp3"></audio>
-  </div>
   <script>
+     <audio id="container_2" controls autoplay loop width="50%" height="350">
+    <source src="audio.mp3" type="audio/mp3">
+    Din browser stotter ikke denne type filer.(Gammel skjerm).
+     </audio>
+  
+  <div class="container_2">
+    <button id="playButton" onclick="playSound()">Gif for you</button>
+    <audio id="sound_3" src="sound.mp3"></audio>
+     audio.volume = 1.0;
+    audio.play();
+    }
+  
+  </div>
     function playSound() {
       var audio = document.getElementById('sound');
       audio.volume = 1.0;
