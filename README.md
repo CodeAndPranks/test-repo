@@ -26,33 +26,17 @@ https://github.com/codeandpranks/test-repo/index.html
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=CodeAndPranks-test-repo&repo=github-visitors-badge&countColor=%237B1E7A)
 
-## Video link raw/main in readme.md 
+## 1. video na_boat markdown-formart
+[na_boat.mp4](https://codeandpranks.github.io/test-repo/na_boat.mp4)
 
-![Video:my final resoult](https://github.com/CodeAndPranks/test-repo/raw/main/na_boat.mp4)
-<hr>
-
-  ## markdown format link
-- 1.md 
-![my_fake_video.com](na_boat.mp4)
-
-- 2.md format link start e.g youtube videos🟢
-  [random_youtube-video.com](https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV)
-
-## video na_boat i anchor-tag raw/main:
-<a href="na_boat.mp4" target="_blank">link-repo-vido.com🔴</a>
-
-## video na_boat https url
-https://github.com/CodeAndPranks/test-repo/raw/main/na_boat.mp4
-
-- 2.anchor-tag start e.g YouTube videos:
+## 2.anchor-tag start e.g YouTube videos:
 <a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video.com🟢</a>
 
-# Test audio fra repo 
-<audio controls><source src="https://raw.githubusercontent.com/CodeAndPranks-test-repo/main/sound.mp3" type="audio/mpeg"> Din nettleser støtter ikke lydklipp.</audio>
+# Test CSS-Power url.:
+https://codeandpranks.github.io/test-repo/index.html
 
-
-# sound_test script html i anchor url
-<a href="https://CodeAndPranks/test-repo/sound.html">link</a>
+# sound_test url:
+https://codeandpranks.github.io/test-repo/sound.html
 
 ## END OF TEST'S !
 
