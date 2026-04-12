@@ -2,6 +2,7 @@
 #  Links and auto-download in readme.md files + Color Test
 <h4 align="center">
   OS compatibility :
+  
   <br><br>
   <img src="https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows">
  
@@ -21,7 +22,7 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=CodeAndPranks-test-repo&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ## 1. video na_boat markdown-formart
-[na_boat.mp4](https://codeandpranks.github.io/test-repo/na_boat.mp4 target="blank")
+[na_boat.mp4](https://codeandpranks.github.io/test-repo/na_boat.mp4)
 
 ## 2.anchor-tag start e.g YouTube videos:
 <a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video.com🟢</a>
