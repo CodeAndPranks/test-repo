@@ -14,8 +14,6 @@
  - Visitors:
 ![](https://komarev.com/ghpvc/?username=CodeAndPranks-test-repo&abbreviated=true)
 
-8⁹
-
 ## Risk-levels:
  
   🟢 Go 🔴 No  🟡 maybe/maybee-Not
