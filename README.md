@@ -18,15 +18,12 @@
 
 ## Risk-levels:
  
-  🟢Go 🔴No  🟡maybe/maybee-Not
-
-- CSS_index_file_repo
-https://github.com/codeandpranks/test-repo/index.html
+  🟢 Go 🔴 No  🟡 maybe/maybee-Not
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=CodeAndPranks-test-repo&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ## 1. video na_boat markdown-formart
-[na_boat.mp4](https://codeandpranks.github.io/test-repo/na_boat.mp4)
+[na_boat.mp4](https://codeandpranks.github.io/test-repo/na_boat.mp4 target="blank")
 
 ## 2.anchor-tag start e.g YouTube videos:
 <a href="https://youtu.be/VS6UOyTb5eU?si=nfloz13KWQ7gBCOV" target="_blank">random_youtube-video.com🟢</a>
@@ -34,10 +31,14 @@ https://github.com/codeandpranks/test-repo/index.html
 # Test CSS-Power url.:
 https://codeandpranks.github.io/test-repo/index.html
 
-# sound_test url:
+# sound_test url.
 https://codeandpranks.github.io/test-repo/sound.html
 
-## END OF TEST'S !
+# video : na boat.mp4 url.
+https://codeandpranks.github.io/test-repo/na_boat.mpa
+
+## END OF URL TEST'S !
+----------------------
 
 # Color blind test.
 ## 7 of 100 men(15 %),and 1 of 100 women are color-blind u red-green.Keep in mind when choose colors.
